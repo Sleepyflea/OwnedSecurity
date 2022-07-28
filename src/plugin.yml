@@ -2,5 +2,6 @@ main: com.sleepy.ownedsecurity.OwnedSecurity
 name: OwnedSecurity
 authors: 
 - SpicyChicken
-version: 0.2
+- IsCarter
+version: 0.3
 api-version: 1.18

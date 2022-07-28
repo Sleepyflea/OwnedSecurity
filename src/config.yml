@@ -1,9 +1,13 @@
-#Get your ip from http://www.ipchicken.com
-Ip: 00.00.000.00
-
-#Get your UUID at https://mcuuid.net/
-#Do not leave this blank, it will allow you to login no matter the case
-UUID: g5971935-ffaf-41d5-b812-054f0dd0cfc4
-
-#Your Player Name goes here, Im sure you know this one.. :P
-Player: SpicyChicken
+Players:
+  SpicyChicken:
+    #Your Player Name goes here, Im sure you know this one.. :P
+    Name: SpicyChicken
+    #Get your UUID at https://mcuuid.net/
+    #Do not leave this blank, it will allow you to login no matter the case
+    UUID: b4971935-ffaf-41d5-b812-054f0dd0cff1
+    #Get your ip from http://www.ipchicken.com
+    Ip: 00.00.000.00
+  IsCarter:
+    Name: IsCarter
+    UUID: 0b509220-566e-415d-b59a-a4357484c9c3
+    Ip: 00.00.000.00
